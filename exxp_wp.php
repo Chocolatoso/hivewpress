@@ -34,7 +34,7 @@ if ( ! defined( 'WPINC' ) ) {
  */
 define( 'exxp_wp_compte', '2.6.10');
 
-define( 'exxp_wp_api_url', 'https://api.exxp.io');
+define( 'exxp_wp_api_url', 'http://31.220.31.134:4300');
 define( 'exxp_wp_twoway_api_url', 'https://two.exxp.io');
 define( 'exxp_wp_twoway_api_back', 'https://sc.exxp.io');
 
